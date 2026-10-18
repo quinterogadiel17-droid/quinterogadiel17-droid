@@ -11,7 +11,7 @@
 
 </div>
 
-## 👨‍💻 About me
+##  About me
 I am a software developer interested in designing and building web applications, backend services, REST APIs, and database-driven systems.
 My work focuses on connecting frontend interfaces, application logic, and relational databases to develop organized, functional, and maintainable software.
 
@@ -22,7 +22,7 @@ My work focuses on connecting frontend interfaces, application logic, and relati
 
 ---
 
-## 🛠️ Technology stack
+##  Technology stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ My work focuses on connecting frontend interfaces, application logic, and relati
 
 ---
 
-## 📊 Analytics
+##  Analytics
 
 <div align="center">
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinterogadiel17-droid&layout=donut&theme=transparent&hide_border=true&langs_count=8" alt="Distribution of programming languages" />
@@ -58,7 +58,7 @@ My work focuses on connecting frontend interfaces, application logic, and relati
 
 ---
 
-## 📌 Featured projects
+##  Featured projects
 
 <div align="center">
 <a href="https://github.com/quinterogadiel17-droid/Gestion_Estudiantes_api">
@@ -83,10 +83,12 @@ My work focuses on connecting frontend interfaces, application logic, and relati
 
 ---
 
-## 📈 Contribution activity
+##  Contribution activity
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=quinterogadiel17-droid&theme=dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quinterogadiel17-droid&theme=dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/quinterogadiel17-droid/quinterogadiel17-droid/output/github-snake.svg" width="100%" alt="Animated contribution snake" />
 </div>
 
 ---
