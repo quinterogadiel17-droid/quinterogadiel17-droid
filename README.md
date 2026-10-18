@@ -86,9 +86,9 @@ My work focuses on connecting frontend interfaces, application logic, and relati
 ##  Contribution activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quinterogadiel17-droid&theme=dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
-  <br/><br/>
   <img src="https://raw.githubusercontent.com/quinterogadiel17-droid/quinterogadiel17-droid/output/github-snake.svg" width="100%" alt="Animated contribution snake" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quinterogadiel17-droid&theme=dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 </div>
 
 ---
